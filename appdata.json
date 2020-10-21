@@ -38,6 +38,7 @@
           ],
           "media": [
             {
+              "id": "14mZewr2nJFDFD",
               "mediatype": "mp3",
               "url": "https://www.google.com/song.mp3",
               "title": "That Explains It"
@@ -49,6 +50,7 @@
     {
       "media": [
         {
+          "id": "14mZewr2nJFDFD",
           "mediatype": "video",
           "url": "https://www.google.com",
           "title": "Sample Media"

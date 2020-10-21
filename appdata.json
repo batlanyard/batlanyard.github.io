@@ -3,24 +3,16 @@
     {
       "songs": [
         {
-          "album": "001",
+          "album": 1,
           "copyright": "Copyright 2020 Teddev Music/ASCAP. All rights reserved.",
           "credits": [
             "Produced and Engineered by Matt Thompson and Nick Davis",
             "Nick Davis: guitars",
             "Matt Thompson: bass, keys, programming"
           ],
-          "num": "01",
-          "objectId": "14mZewr2nJ",
-          "fileext": "mp3",
-          "filename": "that-explains-it",
-          "stitle": "THAT EXPLAINS IT",
-          "font_blue": "64",
-          "font_green": "69",
-          "font_red": "90",
-          "red": "69",
-          "green": "188",
-          "blue": "186",
+          "songNum": 1,
+          "id": "14mZewr2nJ",
+          "title": "THAT EXPLAINS IT",
           "lyrics": [
             "V1",
             "twenty-four seconds late",
@@ -43,6 +35,13 @@
             "",
             "Words and Music by Davis/Thompson.",
             ""
+          ],
+          "media": [
+            {
+              "mediatype": "mp3",
+              "url": "https://www.google.com/song.mp3",
+              "title": "That Explains It"
+            }
           ]
         }
       ]
@@ -51,10 +50,13 @@
       "media": [
         {
           "mediatype": "video",
-          "url": "",
-          "title": ""
+          "url": "https://www.google.com",
+          "title": "Sample Media"
         }
       ]
+    },
+    {
+      "albums": []
     }
   ]
 }

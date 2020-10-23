@@ -6,13 +6,102 @@
           "album": 1,
           "copyright": "Copyright 2020 Teddev Music/ASCAP. All rights reserved.",
           "credits": [
+            "Produced and Engineered by Matt Thompson",
+            "Nick Davis: guitars, vocals",
+            "Matt Thompson: bass, keys, programming, backing vocals"
+          ],
+          "songNum": 1,
+          "id": "14mZewr2nA",
+          "title": "LISTEN IN",
+          "cover": "https://batpass.s3.amazonaws.com/IMG_4250-sm.jpeg",
+          "lyrics": [
+            "V1",
+            "twenty-four seconds late",
+            "i'm the fire to your escape",
+            "",
+            "CH",
+            "just because your lover",
+            "found another lover again",
+            "that explains it",
+            "V2",
+            "placeholder for verse two",
+            "nothing like being used",
+            "",
+            "CH",
+            "i plan a plan... the worst",
+            "",
+            "BR",
+            "and in the eighties you were",
+            "saved by zero",
+            "",
+            "Words and Music by Davis/Thompson.",
+            ""
+          ],
+          "media": [
+            {
+              "id": "14mZewr2nJFDFA",
+              "mediaType": "mp3",
+              "url": "https://www.google.com/song.mp3",
+              "title": "That Explains It"
+            }
+          ]
+        },
+        {
+          "album": 1,
+          "copyright": "Copyright 2020 Teddev Music/ASCAP. All rights reserved.",
+          "credits": [
             "Produced and Engineered by Matt Thompson and Nick Davis",
             "Nick Davis: guitars",
             "Matt Thompson: bass, keys, programming"
           ],
           "songNum": 1,
-          "id": "14mZewr2nJ",
+          "id": "14mZewr2nB",
           "title": "THAT EXPLAINS IT",
+          "cover": "https://batpass.s3.amazonaws.com/coverArt.png",
+          "lyrics": [
+            "V1",
+            "twenty-four seconds late",
+            "i'm the fire to your escape",
+            "",
+            "CH",
+            "just because your lover",
+            "found another lover again",
+            "that explains it",
+            "V2",
+            "placeholder for verse two",
+            "nothing like being used",
+            "",
+            "CH",
+            "i plan a plan... the worst",
+            "",
+            "BR",
+            "and in the eighties you were",
+            "saved by zero",
+            "",
+            "Words and Music by Davis/Thompson.",
+            ""
+          ],
+          "media": [
+            {
+              "id": "14mZewr2nJFDFB",
+              "mediaType": "mp3",
+              "url": "https://www.google.com/song.mp3",
+              "title": "That Explains It"
+            }
+          ]
+        },
+        {
+          "album": 1,
+          "copyright": "Copyright 2020 Teddev Music/ASCAP. All rights reserved.",
+          "credits": [
+            "Produced and Engineered by Matt Thompson and Nick Davis",
+            "Nick Davis: guitars, vocals",
+            "Matt Thompson: bass, keys, programming"
+          ],
+          "songNum": 1,
+          "id": "14mZewr2nJ",
+          "title": "ATMOSPHERE",
+          "cover": "https://batpass.s3.amazonaws.com/IMG_4320-sm.jpeg",
           "lyrics": [
             "V1",
             "twenty-four seconds late",
@@ -54,6 +143,18 @@
           "mediaType": "video",
           "url": "https://www.google.com",
           "title": "Sample Media"
+        },
+        {
+          "id": "14mZewr2nF",
+          "mediaType": "img",
+          "url": "https://batpass.s3.amazonaws.com/IMG_4250-sm.jpeg",
+          "title": "gear1"
+        },
+        {
+          "id": "14mZewr2nG",
+          "mediaType": "img",
+          "url": "https://batpass.s3.amazonaws.com/IMG_4320-sm.jpeg",
+          "title": "gear2"
         }
       ]
     },

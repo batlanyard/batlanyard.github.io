@@ -13,7 +13,7 @@
           "songNum": 1,
           "id": "14mZewr2nA",
           "title": "LISTEN IN",
-          "cover": "https://batpass.s3.amazonaws.com/IMG_4250-sm.jpeg",
+          "cover": "songlist-1",
           "lyrics": [
             "Separation anxiety",
             "Doesn’t mean all that much to me",
@@ -75,7 +75,7 @@
           "songNum": 2,
           "id": "14mZewr2nB",
           "title": "THAT EXPLAINS IT",
-          "cover": "https://batpass.s3.amazonaws.com/coverArt.png",
+          "cover": "songlist-2",
           "lyrics": [
             "24 seconds late",
             "I’m the fire to your escape",
@@ -131,7 +131,7 @@
           "songNum": 3,
           "id": "14mZewr2nJ",
           "title": "ATMOSPHERE",
-          "cover": "https://batpass.s3.amazonaws.com/IMG_4320-sm.jpeg",
+          "cover": "songlist-3",
           "lyrics": [
             "I suspect you dont know feelings",
             "Pretty sure, neither do I",

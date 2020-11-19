@@ -14,6 +14,9 @@
           "id": "14mZewr2nA",
           "title": "LISTEN IN",
           "cover": "songlist-1",
+          "r": 240,
+          "g": 240,
+          "b": 240,
           "lyrics": [
             "Separation anxiety",
             "Doesn’t mean all that much to me",
@@ -76,6 +79,9 @@
           "id": "14mZewr2nB",
           "title": "THAT EXPLAINS IT",
           "cover": "songlist-2",
+          "r": 210,
+          "g": 210,
+          "b": 210,
           "lyrics": [
             "24 seconds late",
             "I’m the fire to your escape",
@@ -132,6 +138,9 @@
           "id": "14mZewr2nJ",
           "title": "ATMOSPHERE",
           "cover": "songlist-3",
+          "r": 24,
+          "g": 20,
+          "b": 240,
           "lyrics": [
             "I suspect you dont know feelings",
             "Pretty sure, neither do I",

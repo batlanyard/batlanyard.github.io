@@ -64,6 +64,22 @@
               "mediaType": "mp3",
               "url": "https://batpass.s3.amazonaws.com/01-listen-in.mp3",
               "title": "Listen In"
+            },
+            {
+              "id": "pic01-01",
+              "mediaType": "jpeg",
+              "thumb": "https://batpass.s3.amazonaws.com/ep1/thumb_IMG_0377-01.jpg",
+              "url": "https://batpass.s3.amazonaws.com/ep1/IMG_0377-01.jpg",
+              "title": "",
+              "credit": "Photo by Nick Davis"
+            },
+            {
+              "id": "pic02-01",
+              "mediaType": "jpeg",
+              "thumb": "https://batpass.s3.amazonaws.com/ep1/thumb_IMG_0404-01.JPG",
+              "url": "https://batpass.s3.amazonaws.com/ep1/IMG_0404-01.JPG",
+              "title": "",
+              "credit": "Photo by Nick Davis"
             }
           ]
         },

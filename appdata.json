@@ -62,22 +62,20 @@
             {
               "id": "14mZewr2nJFDFA",
               "mediaType": "mp3",
-              "url": "https://batpass.s3.amazonaws.com/01-listen-in.mp3",
+              "url": "01-listen-in.mp3",
               "title": "Listen In"
             },
             {
               "id": "pic01-01",
               "mediaType": "jpeg",
-              "thumb": "https://batpass.s3.amazonaws.com/ep1/thumb_IMG_0377-01.jpg",
-              "url": "https://batpass.s3.amazonaws.com/ep1/IMG_0377-01.jpg",
+              "url": "IMG_0377-01.jpg",
               "title": "",
               "credit": "Photo by Nick Davis"
             },
             {
               "id": "pic02-01",
               "mediaType": "jpeg",
-              "thumb": "https://batpass.s3.amazonaws.com/ep1/thumb_IMG_0404-01.JPG",
-              "url": "https://batpass.s3.amazonaws.com/ep1/IMG_0404-01.JPG",
+              "url": "IMG_0404-01.JPG",
               "title": "",
               "credit": "Photo by Nick Davis"
             }
@@ -137,7 +135,7 @@
             {
               "id": "14mZewr2nJFDFB",
               "mediaType": "mp3",
-              "url": "https://batpass.s3.amazonaws.com/02-that-explains-it.mp3",
+              "url": "02-that-explains-it.mp3",
               "title": "That Explains It"
             }
           ]
@@ -208,7 +206,7 @@
             {
               "id": "14mZewr2nJFDFD",
               "mediaType": "mp3",
-              "url": "https://batpass.s3.amazonaws.com/03-atmosphere.mp3",
+              "url": "03-atmosphere.mp3",
               "title": "Atmosphere"
             }
           ]

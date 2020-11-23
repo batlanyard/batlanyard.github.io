@@ -193,6 +193,83 @@
               "mediaType": "mp3",
               "url": "02-that-explains-it.mp3",
               "title": "That Explains It"
+            },
+            {
+              "id": "pic01-02",
+              "mediaType": "jpg",
+              "url": "IMG_0780-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic02-02",
+              "mediaType": "jpg",
+              "url": "IMG_0374-02.jpg",
+              "title": "",
+              "credit": "Photo by Nick Davis"
+            },
+            {
+              "id": "pic03-02",
+              "mediaType": "jpg",
+              "url": "61549894568-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic04-02",
+              "mediaType": "jpg",
+              "url": "61422577340-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic05-02",
+              "mediaType": "jpg",
+              "url": "NLDTorontoStudio-02.jpg",
+              "title": "",
+              "credit": "Photo by Nick Davis"
+            },
+            {
+              "id": "pic06-02",
+              "mediaType": "jpg",
+              "url": "IMG_3684-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic07-02",
+              "mediaType": "jpg",
+              "url": "IMG_2847-02.jpg",
+              "title": "",
+              "credit": "Photo by Nick Davis"
+            },
+            {
+              "id": "pic08-02",
+              "mediaType": "jpg",
+              "url": "IMG_1716-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic09-02",
+              "mediaType": "jpg",
+              "url": "IMG_0925-02.jpg",
+              "title": "",
+              "credit": "Photo by Nick Davis"
+            },
+            {
+              "id": "pic10-02",
+              "mediaType": "jpg",
+              "url": "IMG_4246-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
+            },
+            {
+              "id": "pic11-02",
+              "mediaType": "jpg",
+              "url": "IMG_4239-02.jpg",
+              "title": "",
+              "credit": "Photo by Matt Thompson"
             }
           ]
         },
